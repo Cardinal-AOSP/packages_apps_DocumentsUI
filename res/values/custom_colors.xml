@@ -17,6 +17,6 @@
 <resources>
 
     <!-- Adaptive icon background layer color -->
-    <color name="ic_launcher_documentsui_background">#10ADF5</color>
+    <color name="ic_launcher_documentsui_background">@color/primary</color>
 
 </resources>
